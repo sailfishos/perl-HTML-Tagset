@@ -1,0 +1,9 @@
+<package project="Mer:Trunk:Base" name="perl-HTML-Tagset">
+  <title>HTML::Tagset - data tables useful in parsing HTML</title>
+  <description>This module contains several data tables useful in various kinds of
+HTML parsing operations, such as tag and entity names.
+
+
+</description>
+  <url>http://search.cpan.org/dist/HTML-Tagset/</url>
+</package>
